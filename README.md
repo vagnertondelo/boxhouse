@@ -1,6 +1,9 @@
 # box_house
 
-Box House
+Box House. App criado com versão 1.0 do flutter.
+App de agendamento. Esta funcionado somente a parte do Aluno ate momento app criado para estudo.
+Link play store = https://play.google.com/store/apps/details?id=box.box_house
+
 
 ## Getting Started
 
