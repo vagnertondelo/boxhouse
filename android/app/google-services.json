@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776018636779",
+    "firebase_url": "https://boxhouse-d9369.firebaseio.com",
+    "project_id": "boxhouse-d9369",
+    "storage_bucket": "boxhouse-d9369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776018636779:android:0c600ffa3f00e3545c33ae",
+        "android_client_info": {
+          "package_name": "box.box_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776018636779-v2qj9qhk21b5rlq7t3rfp16jp1ea2fsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "box.box_house",
+            "certificate_hash": "52bb6a2091dd0928c271a2f485941766a8eac219"
+          }
+        },
+        {
+          "client_id": "776018636779-ta8m062clgbi62fn7cqjrghn65m56spl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPS8SAMvoNKSEuc_34LR6zDRw9lwgo888"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776018636779-ta8m062clgbi62fn7cqjrghn65m56spl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
